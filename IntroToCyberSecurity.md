@@ -34,6 +34,7 @@
               - Zero Trust Architecture - ZTA 
               - Segmentation
             - [Security+ Objectives](https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-security-sy0-601-exam-objectives-(2-0).pdf?sfvrsn=8c5889ff_2) حاول فهم و أستيعاب و تطبيق مفردات المنهج
+            - [دورة مجانية من معهد سانز في أساسيات الأمن السيبراني](https://www.sans.org/cyberaces/)
         - **Cyber Security Fields: تخصصات الأمن السيبراني**
             
             - Architecture المعمارية
