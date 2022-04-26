@@ -1,1 +1,75 @@
-# IntroToCyberSecurity
+- Cyber Security Roadmap -  خارطة الطريق إلى إحتراف الأمن السيبراني
+    - Prerequisites - متطلبات دراسة الأمن السيبراني
+        - **IT Prerequisites - أساسيات الحاسب**           
+            - **Networking - الشبكات**
+                - Networking Theory نظرية الشبكات
+                  - OSI / TCP/IP Models ...
+                - Networking & Application Protocols البروتوكولات
+                  - TCP, UDP, IP, ICMP ...
+                  - DNS, HTTP, SMTP ...
+                - [Network+ Objectives](https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-network-n10-007-exam-objectives-(6-0).pdf?sfvrsn=fd21c50b_2) حاول فهم و أستيعاب و تطبيق مفردات المنهج
+            - **Operating Systems -  أنظمة التشغيل**
+                - Windows نظام الويندوز
+                - Linux نظام اللينكس
+                - MacOS نظام الماك
+                - Mobile: iOS, Android أنظمة الموبايل
+                - Services: DHCP, DNS, HTTP, Email ( SMTP, POP3, IMAP), FTP ...
+                - [Linux+ Objectives](https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-linux-xk0-004-exam-objectives4125801ca54144cf9fa97a4e2ed0e77e.pdf?sfvrsn=b31fd13f_6) حاول فهم و أستيعاب و تطبيق مفردات المنهج
+            - **Cloud Essentials - مبادئئ الأنظمة السحابية**
+              - [Cloud Essentials](https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-cloud-essentials-clo-002-exam-objectives-(1-0).pdf?sfvrsn=2f3b6aa9_2) حاول فهم و أستيعاب و تطبيق مفردات المنهج          
+            - **Programming Essentials - مبادىء البرمجة**
+                - Logic, Scripting ( Bash, Powershell … ), python
+        - **Cyber Security Basics - أساسيات الأمن السيبراني**            
+            - Network Security أمن الشبكات
+            - Endpoint Security أمن الأجهزة الشخصية
+            - Server Security أمن الأجهزة الرئيسية
+            - Data Security أمن البيانات
+            - Cloud Security أمن الأنظمة السحابية
+            - Application Security أمن التطبيقات
+            - Risk/Threats/Vulnerabilities المخاطر / التهديدات / الثغرات
+            - Security Devices & Solutions حلول و أجهزة الأمان
+              - FW - IPTables 
+              - IPS / IDS ( Snort - Suricata )
+              - DLP
+              - Zero Trust Architecture - ZTA 
+              - Segmentation
+            - [Security+ Objectives](https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-security-sy0-601-exam-objectives-(2-0).pdf?sfvrsn=8c5889ff_2) حاول فهم و أستيعاب و تطبيق مفردات المنهج
+        - **Cyber Security Fields: تخصصات الأمن السيبراني**
+            
+            - Architecture المعمارية
+            - GRC
+              - Governance الحوكمة
+              - Risk المخاطر
+              - Compliance الإمتثال   
+            - Operation: تشغيل عمليات الأمن اسيبراني      
+              - Blue Team الفريق الأزرق - الدفاعي
+              - Red Team الفريق الأحمر - الهجومي
+              - Incident Response - IR الإستجابة للحوادث السيبرانية
+              - Digital Forensics التحقيقات الجنائية الرقمية
+              - Threat Hunting
+            - **S**ecurity **O**peration **C**enter - **SOC** مركز تشغيل عمليات الأمن السيبراني
+              - Analysts: L1, L2, SME
+            - OT التقنيات التشغيلية
+
+        - **مبادرات وطنية مفيدة لدراسة الأمن السيبراني**
+            
+            - NCA - الهيئة الوطنية للأمن السيبراني
+                - [SCyWF  -  الإطار السعودي لكوادر الأمن السيبراني - سيوف](https://nca.gov.sa/files/scywf_ar.pdf)
+                - [The Saudi Cybersecurity Higher Education Framework - الإطار السعودي للتعليم العالي في الأمن السيبراني](https://nca.gov.sa/files/scyberedu_ar.pdf)
+                - [برنامج سايبر برو \- الأكاديمية الوطنية للأمن السيبراني التابعة للهيئة](https://ncac.edu.sa/)
+            - [SAFCSP](https://safcsp.org.sa/) \- الإتحاد السعودي للأمن السيبراني و البرمجة و الدرونز
+                - [أكاديمية طويق](https://tuwaiq.edu.sa/#cyper_section) ( تأسيسي \- دفاعي \- هجومي )
+        - **Self Learning - التعلم الذاتي و المتابعة المستمرة**
+            - Keep up to date with technologies
+            - Reading Cybersecurity News
+            - Searching the internet
+            - Twitter Accounts & Lists
+            - Podcasts
+            - Blogs
+            - Slack Channels
+            - Telegram Groups & Channels
+            - Discord Channels
+            - Get hands-on
+      - **Searching Skills - طور مهارات البحث**
+        - [Google Dorks Cheat Sheet](https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06) 
+---
