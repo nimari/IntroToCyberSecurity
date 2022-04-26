@@ -26,7 +26,8 @@
             - Data Security أمن البيانات
             - Cloud Security أمن الأنظمة السحابية
             - Application Security أمن التطبيقات
-            - Risk/Threats/Vulnerabilities المخاطر / التهديدات / الثغرات
+            - Risk/Threats/Vulnerabilities المخاطر / التهديدات / الثغرات  
+                - [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
             - Security Devices & Solutions حلول و أجهزة الأمان
               - FW - IPTables 
               - IPS / IDS ( Snort - Suricata )
@@ -34,7 +35,6 @@
               - Zero Trust Architecture - ZTA 
               - Segmentation
             - [Security+ Objectives](https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-security-sy0-601-exam-objectives-(2-0).pdf?sfvrsn=8c5889ff_2) حاول فهم و أستيعاب و تطبيق مفردات المنهج
-            - [دورة مجانية من معهد سانز في أساسيات الأمن السيبراني - مع الشكر للمهندس عبدالله المخلفي](https://www.sans.org/cyberaces/)
         - **Cyber Security Fields: تخصصات الأمن السيبراني**
             
             - Architecture المعمارية
