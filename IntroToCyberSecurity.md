@@ -66,7 +66,7 @@
             - Searching the internet
             - Twitter Accounts & Lists
             - Podcasts
-            - Blogs
+            - [Blogs - متابعة و قراءة المدونات المتخصصة في الأمن السيبراني](https://github.com/nimari/IntroToCyberSecurity/blob/main/my-favourite-blogs.md)
             - Slack Channels
             - Telegram Groups & Channels
             - Discord Channels
