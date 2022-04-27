@@ -1,7 +1,7 @@
 ***مدونات متخصصة في الأمن السيبراني***
 ---
 
-- [SANS Computer Forensics and e-Discovery with Rob Lee](https://www.sans.org/blog)
+- [SANS Computer Forensics and e-Discovery](https://www.sans.org/blog)
 - [SANS Internet Storm Center, InfoCON: green](https://isc.sans.edu)
 - [SANS Blog](https://www.sans.org/blog)
 - [Naked Security](https://nakedsecurity.sophos.com)
