@@ -2,20 +2,20 @@
 [SANS Internet Storm Center, InfoCON: green](https://isc.sans.edu)\
 [SANS Blog](https://www.sans.org/blog)\
 [Naked Security](https://nakedsecurity.sophos.com)\
-[/r/netsec - Information Security News & Discussion](https://www.reddit.com/r/netsec/)
-[Threatpost](https://threatpost.com)
-[Krebs on Security](https://krebsonsecurity.com)
-[The Threatpost Podcast](http://threatpost.com)
-[Linux Journal - The Original Magazine of the Linux Community](https://www.linuxjournal.com/node/feed)
-[Security Onion](https://blog.securityonion.net/)
-[CNET News - Security & Privacy](https://www.cnet.com/#ftag=CAD590a51e)
-[Tenable News Feed](https://www.tenable.com/)
-[Schneier on Security](https://www.schneier.com)
-[Social Engineering Blogs](http://www.socialengineeringblogs.com)
-[The Guardian Security](https://www.theguardian.com/technology/data-computer-security)
-[Darknet](https://www.darknet.org.uk)
-[We Live Security](https://www.welivesecurity.com)
-[Google Online Security Blog](http://security.googleblog.com/)
+[/r/netsec - Information Security News & Discussion](https://www.reddit.com/r/netsec/)\
+[Threatpost](https://threatpost.com)\
+[Krebs on Security](https://krebsonsecurity.com)\
+[The Threatpost Podcast](http://threatpost.com)\
+[Linux Journal - The Original Magazine of the Linux Community](https://www.linuxjournal.com/node/feed)\
+[Security Onion](https://blog.securityonion.net/)\
+[CNET News - Security & Privacy](https://www.cnet.com/#ftag=CAD590a51e)\
+[Tenable News Feed](https://www.tenable.com/)\
+[Schneier on Security](https://www.schneier.com)\
+[Social Engineering Blogs](http://www.socialengineeringblogs.com)\
+[The Guardian Security](https://www.theguardian.com/technology/data-computer-security)\
+[Darknet](https://www.darknet.org.uk)\
+[We Live Security](https://www.welivesecurity.com)\
+[Google Online Security Blog](http://security.googleblog.com/)\
 [Cisco Blog](https://blogs.cisco.com)
 [Cyber Security Advisories - MS-ISAC](https://www.cisecurity.org/feed/advisories)
 [Krebs on Security](https://krebsonsecurity.com)
