@@ -7,7 +7,6 @@
 
 [Krebs on Security](https://krebsonsecurity.com)
 [The Threatpost Podcast](http://threatpost.com)
-
 [Linux Journal - The Original Magazine of the Linux Community](https://www.linuxjournal.com/node/feed)
 [Security Onion](https://blog.securityonion.net/)
 [CNET News - Security & Privacy](https://www.cnet.com/#ftag=CAD590a51e)
