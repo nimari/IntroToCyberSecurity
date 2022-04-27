@@ -1,7 +1,7 @@
-[SANS Computer Forensics and e-Discovery with Rob Lee](https://www.sans.org/blog)\
-[SANS Internet Storm Center, InfoCON: green](https://isc.sans.edu)\
-[SANS Blog](https://www.sans.org/blog)\
-[Naked Security](https://nakedsecurity.sophos.com)\
+- [SANS Computer Forensics and e-Discovery with Rob Lee](https://www.sans.org/blog)\
+- [SANS Internet Storm Center, InfoCON: green](https://isc.sans.edu)\
+- [SANS Blog](https://www.sans.org/blog)\
+- [Naked Security](https://nakedsecurity.sophos.com)\
 [/r/netsec - Information Security News & Discussion](https://www.reddit.com/r/netsec/)\
 [Threatpost](https://threatpost.com)\
 [Krebs on Security](https://krebsonsecurity.com)\
