@@ -4,7 +4,6 @@
 [Naked Security](https://nakedsecurity.sophos.com)\
 [/r/netsec - Information Security News & Discussion](https://www.reddit.com/r/netsec/)
 [Threatpost](https://threatpost.com)
-
 [Krebs on Security](https://krebsonsecurity.com)
 [The Threatpost Podcast](http://threatpost.com)
 [Linux Journal - The Original Magazine of the Linux Community](https://www.linuxjournal.com/node/feed)
