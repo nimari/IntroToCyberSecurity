@@ -1,4 +1,4 @@
-***مدونات في الأمن السيبراني***
+***مدونات متخصصة في الأمن السيبراني***
 ---
 
 - [SANS Computer Forensics and e-Discovery with Rob Lee](https://www.sans.org/blog)
