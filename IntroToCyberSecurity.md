@@ -65,7 +65,7 @@
             - Reading Cybersecurity News
             - Searching the internet
             - Twitter Accounts & Lists
-            - Podcasts
+            - [Podcasts - متابعة المدونات الصوتية المتخصصة في الأمن السيبراني](https://github.com/nimari/IntroToCyberSecurity/blob/main/my-favourite-podcasts.md)
             - [Blogs - متابعة و قراءة المدونات المتخصصة في الأمن السيبراني](https://github.com/nimari/IntroToCyberSecurity/blob/main/my-favourite-blogs.md)
             - Slack Channels
             - Telegram Groups & Channels
