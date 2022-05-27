@@ -51,9 +51,12 @@
             - **S**ecurity **O**peration **C**enter - **SOC** مركز تشغيل عمليات الأمن السيبراني
               - Analysts: L1, L2, SME
             - OT التقنيات التشغيلية
-	- **VM- ورشة عملية باستخدام
+	- **Virtual Machine (VM) ورشة عملية باستخدام
 	    -  Loki Scan التحليل الجنائي الرقمي باستخدام اداة
 		-(https://drive.google.com/file/d/1aHJpH-69uxnsfRCSEAIDINQlmFXqZGN8/view) [لتحميل النظام انقر هنا]
+
+	    - Intrusion Detection Systems (IDS) KIBANA كشف التسلل الشبكي باستخدام 
+		-(https://drive.google.com/file/d/1SsYnh0PJsnlIAklo3ayAXjs354POQ--7/view) [لتحميل النظام انقر هنا]
 	
         - **مبادرات وطنية مفيدة لدراسة الأمن السيبراني**
             
