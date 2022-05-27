@@ -53,10 +53,10 @@
             - OT التقنيات التشغيلية
 	- **Virtual Machine (VM) ورشة عملية باستخدام
 	    -  Loki Scan التحليل الجنائي الرقمي باستخدام اداة
-		-(https://drive.google.com/file/d/1aHJpH-69uxnsfRCSEAIDINQlmFXqZGN8/view) [لتحميل النظام انقر هنا]
+		-[لتحميل النظام انقر هنا](https://drive.google.com/file/d/1aHJpH-69uxnsfRCSEAIDINQlmFXqZGN8/view)
 
 	    - Intrusion Detection Systems (IDS) KIBANA كشف التسلل الشبكي باستخدام 
-		-(https://drive.google.com/file/d/1SsYnh0PJsnlIAklo3ayAXjs354POQ--7/view) [لتحميل النظام انقر هنا]
+		-[لتحميل النظام انقر هنا](https://drive.google.com/file/d/1SsYnh0PJsnlIAklo3ayAXjs354POQ--7/view)
 	
         - **مبادرات وطنية مفيدة لدراسة الأمن السيبراني**
             
