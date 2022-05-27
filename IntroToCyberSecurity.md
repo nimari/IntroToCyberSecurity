@@ -77,6 +77,10 @@
             - Telegram Groups & Channels
             - Discord Channels
             - Get hands-on
+      - **Advanced Persistent Threats (APTs) MITER ATT&CK تعرف على مجموعات وربطها مع  
+	- [يمكنك الوصول من هنا](https://attack.mitre.org/groups/)
+
+	
       - **Searching Skills - طور مهارات البحث**
         - [Google Dorks Cheat Sheet](https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06) 
 ---
