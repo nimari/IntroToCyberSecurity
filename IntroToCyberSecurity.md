@@ -77,8 +77,10 @@
             - Telegram Groups & Channels
             - Discord Channels
             - Get hands-on
-      - **Advanced Persistent Threats (APTs) MITER ATT&CK تعرف على مجموعات وربطها مع  
+
+      - **Advanced Persistent Threats (APTs) With MITER ATT&CK
 	- [يمكنك الوصول من هنا](https://attack.mitre.org/groups/)
+	- [ATT&CK Matrix for Enterprise سلاسل الهجمات في المنشأت](https://attack.mitre.org/#)
 
 	
       - **Searching Skills - طور مهارات البحث**
