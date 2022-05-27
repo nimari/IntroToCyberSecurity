@@ -51,7 +51,10 @@
             - **S**ecurity **O**peration **C**enter - **SOC** مركز تشغيل عمليات الأمن السيبراني
               - Analysts: L1, L2, SME
             - OT التقنيات التشغيلية
-
+	- **VM- ورشة عملية باستخدام
+	    -  Loki Scan التحليل الجنائي الرقمي باستخدام اداة
+		-(https://drive.google.com/file/d/1aHJpH-69uxnsfRCSEAIDINQlmFXqZGN8/view) [لتحميل النظام انقر هنا]
+	
         - **مبادرات وطنية مفيدة لدراسة الأمن السيبراني**
             
             - NCA - الهيئة الوطنية للأمن السيبراني
