@@ -51,7 +51,12 @@
             - **S**ecurity **O**peration **C**enter - **SOC** مركز تشغيل عمليات الأمن السيبراني
               - Analysts: L1, L2, SME
             - OT التقنيات التشغيلية
-
+	- **Virtual Machine (VM) ورشة عملية باستخدام**
+	    -  Loki Scan التحليل الجنائي الرقمي باستخدام اداة
+		-[لتحميل النظام انقر هنا](https://drive.google.com/file/d/1aHJpH-69uxnsfRCSEAIDINQlmFXqZGN8/view)
+	    - Intrusion Detection Systems (IDS) KIBANA كشف التسلل الشبكي باستخدام 
+		-[لتحميل النظام انقر هنا](https://drive.google.com/file/d/1SsYnh0PJsnlIAklo3ayAXjs354POQ--7/view)
+	
         - **مبادرات وطنية مفيدة لدراسة الأمن السيبراني**
             
             - NCA - الهيئة الوطنية للأمن السيبراني
@@ -71,6 +76,12 @@
             - Telegram Groups & Channels
             - Discord Channels
             - Get hands-on
+
+      - **Advanced Persistent Threats (**APTs**) With MITER ATT&CK**
+	- [يمكنك الوصول من هنا](https://attack.mitre.org/groups/)
+	- [ATT&CK Matrix for Enterprise سلاسل الهجمات في المنشأت](https://attack.mitre.org/#)
+
+	
       - **Searching Skills - طور مهارات البحث**
         - [Google Dorks Cheat Sheet](https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06) 
 ---
