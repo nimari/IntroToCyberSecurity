@@ -71,6 +71,7 @@
             - Telegram Groups & Channels
             - Discord Channels
             - Get hands-on
+            - [كثر من ٨٠٠ درس مجاني في مختلف تخصصات علوم الحاسب الآلي](https://github.com/Developer-Y/cs-video-courses#security)
       - **Searching Skills - طور مهارات البحث**
         - [Google Dorks Cheat Sheet](https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06) 
 ---
