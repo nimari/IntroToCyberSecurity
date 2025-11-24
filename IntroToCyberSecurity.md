@@ -21,6 +21,7 @@
                 - Logic, Scripting ( Bash, Powershell … ), python
             - Trending Technologies - التقنيات الناشئة**
               - Blockchain - البلوكتشين
+        - **أساسيات التقنيات التشغيلية - Operational Technology**
         - **Cyber Security Basics - أساسيات الأمن السيبراني** 
             - Risk/Threats/Vulnerabilities المخاطر / التهديدات / الثغرات  
                 - [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
@@ -36,6 +37,8 @@
               - DLP ( Data Loss Prevention )
               - Zero Trust Architecture - ZTA 
               - Segmentation
+            - https://www.isc2.org/certifications/cc
+              - كورس و إختبار مجاني و مفيد جدا ف أساسيات الأمن السيراني من ISC2
             - [Security+ Objectives](https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-security-sy0-601-exam-objectives-(2-0).pdf?sfvrsn=8c5889ff_2) حاول فهم و أستيعاب و تطبيق مفردات المنهج
         - **Cyber Security Fields: تخصصات الأمن السيبراني**            
             - Architecture المعمارية
@@ -52,7 +55,6 @@
             - **S**ecurity **O**peration **C**enter - **SOC** مركز تشغيل عمليات الأمن السيبراني
               - Analysts: L1, L2, SME
             - OT التقنيات التشغيلية
-
         - **مبادرات وطنية مفيدة لدراسة الأمن السيبراني**
             
             - NCA - الهيئة الوطنية للأمن السيبراني
