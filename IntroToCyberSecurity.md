@@ -19,24 +19,25 @@
               - [Cloud Essentials](https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-cloud-essentials-clo-002-exam-objectives-(1-0).pdf?sfvrsn=2f3b6aa9_2) حاول فهم و أستيعاب و تطبيق مفردات المنهج          
             - **Programming Essentials - مبادىء البرمجة**
                 - Logic, Scripting ( Bash, Powershell … ), python
-        - **Cyber Security Basics - أساسيات الأمن السيبراني**            
+            - Trending Technologies - التقنيات الناشئة**
+              - Blockchain - البلوكتشين
+        - **Cyber Security Basics - أساسيات الأمن السيبراني** 
+            - Risk/Threats/Vulnerabilities المخاطر / التهديدات / الثغرات  
+                - [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
             - Network Security أمن الشبكات
-            - Endpoint Security أمن الأجهزة الشخصية
+            - Endpoint Security أمن الأجهزة الطرفية
             - Server Security أمن الأجهزة الرئيسية
             - Data Security أمن البيانات
             - Cloud Security أمن الأنظمة السحابية
             - Application Security أمن التطبيقات
-            - Risk/Threats/Vulnerabilities المخاطر / التهديدات / الثغرات  
-                - [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
             - Security Devices & Solutions حلول و أجهزة الأمان
-              - FW - IPTables 
+              - FW - NGFW 
               - IPS / IDS ( Snort - Suricata )
-              - DLP
+              - DLP ( Data Loss Prevention )
               - Zero Trust Architecture - ZTA 
               - Segmentation
             - [Security+ Objectives](https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-security-sy0-601-exam-objectives-(2-0).pdf?sfvrsn=8c5889ff_2) حاول فهم و أستيعاب و تطبيق مفردات المنهج
-        - **Cyber Security Fields: تخصصات الأمن السيبراني**
-            
+        - **Cyber Security Fields: تخصصات الأمن السيبراني**            
             - Architecture المعمارية
             - GRC
               - Governance الحوكمة
