@@ -19,9 +19,10 @@
               - [Cloud Essentials](https://comptiacdn.azureedge.net/webcontent/docs/default-source/exam-objectives/comptia-cloud-essentials-clo-002-exam-objectives-(1-0).pdf?sfvrsn=2f3b6aa9_2) حاول فهم و أستيعاب و تطبيق مفردات المنهج          
             - **Programming Essentials - مبادىء البرمجة**
                 - Logic, Scripting ( Bash, Powershell … ), python
-            - Trending Technologies - التقنيات الناشئة**
+            - **التقنيات الناشئة - Trending Technologies**
               - Blockchain - البلوكتشين
-        - **أساسيات التقنيات التشغيلية - Operational Technology**
+              - الذكاء الإصطناعي - Artificial Intelligence
+            - **أساسيات التقنيات التشغيلية - Operational Technology**
         - **Cyber Security Basics - أساسيات الأمن السيبراني** 
             - Risk/Threats/Vulnerabilities المخاطر / التهديدات / الثغرات  
                 - [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
